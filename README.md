@@ -7,3 +7,6 @@
 ## Tech Stack ===> HTML, CSS, NodeJS, API to get motivational quotes
 
 ## We get random quotes after clicking on the button.
+
+
+![image](https://user-images.githubusercontent.com/82174253/187084695-a5616715-8784-4faa-94c0-67c8560dad46.png)
